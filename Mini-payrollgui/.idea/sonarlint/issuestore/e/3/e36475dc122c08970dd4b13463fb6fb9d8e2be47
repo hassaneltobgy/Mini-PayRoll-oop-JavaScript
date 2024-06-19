@@ -1,0 +1,25 @@
+
+[	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(êüÖÜ
+{
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(åîÓËøÿÿÿÿ8¢ÈïÎ“0
+{
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıõÂ·øÿÿÿÿ8±ÈïÎ“0
+v
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁÈ¾°8ÁÈïÎ“0
+{
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ĞÆıÿÿÿÿ8ĞÈïÎ“0
+{
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(õƒÜßüÿÿÿÿ8àÈïÎ“0
+{
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(âîÚşÿÿÿÿ8ğÈïÎ“0
+f	java:S116$"QRename this field "Agecol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®«ß
+:
+java:S1659\"$Declare "salary" on a separate line.(Ñ÷Í›
+Q	java:S125d"<This block of commented-out lines of code should be removed.(Ú°à¬
+S
+java:S1854{"8Remove this useless assignment to local variable "root".(Äùáæüÿÿÿÿ
+D
+java:S1481{")Remove this unused "root" local variable.(Äùáæüÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(§×À½ıÿÿÿÿ
+L
+java:S1128	"/Remove this unused import 'javafx.scene.Scene'.(Õü²8ÏÉïÎ“0

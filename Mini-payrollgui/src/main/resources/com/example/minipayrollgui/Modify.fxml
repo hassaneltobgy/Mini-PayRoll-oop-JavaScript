@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="691.0" prefWidth="882.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane layoutX="3.0" layoutY="14.0" prefHeight="101.0" prefWidth="882.0" style="-fx-background-color: #3F2B63;" AnchorPane.leftAnchor="-0.39999999999997726" AnchorPane.rightAnchor="0.0">
+         <children>
+            <Label layoutX="52.0" layoutY="23.0" prefHeight="66.0" prefWidth="198.0" text="Modify">
+               <font>
+                  <Font size="45.0" />
+               </font>
+               <textFill>
+                  <RadialGradient centerY="1.0" radius="0.5">
+                     <stops>
+                        <Stop>
+                           <color>
+                              <Color />
+                           </color>
+                        </Stop>
+                        <Stop offset="1.0">
+                           <color>
+                              <Color red="1.0" green="1.0" blue="1.0" />
+                           </color>
+                        </Stop>
+                     </stops>
+                  </RadialGradient>
+               </textFill>
+            </Label>
+            <Button layoutX="744.0" layoutY="56.0" mnemonicParsing="false" text="Home page" />
+         </children>
+      </Pane>
+      <TextField layoutX="210.0" layoutY="140.0" prefHeight="26.0" prefWidth="149.0" />
+      <Text layoutX="14.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enter id to be modified:" wrappingWidth="211.99996337890627">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

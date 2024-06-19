@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="493.0" prefWidth="803.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.minipayrollgui.Controller1">
+   <children>
+      <TableView fx:id="animals" layoutX="192.0" layoutY="122.0" onMouseClicked="#rowClicked" prefHeight="241.0" prefWidth="595.0">
+         <columns>
+            <TableColumn fx:id="idCol" prefWidth="75.0" text="ID" />
+            <TableColumn fx:id="typeCol" prefWidth="75.0" text="Position" />
+            <TableColumn fx:id="nameCol" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="salarycol" prefWidth="75.0" text="salary" />
+            <TableColumn fx:id="taxratecol" prefWidth="75.0" text="taxrate" />
+            <TableColumn fx:id="payratecol" prefWidth="75.0" text="payrate" />
+            <TableColumn fx:id="Agecol" prefWidth="75.0" text="Age" />
+            <TableColumn fx:id="workinghourscol" prefWidth="75.0" text="Workinghours" />
+         </columns>
+      </TableView>
+      <VBox layoutX="34.0" layoutY="19.0" prefHeight="200.0" prefWidth="160.0" spacing="5.0">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="ID:" />
+            <TextField fx:id="inputId" disable="true" />
+            <Text layoutX="10.0" layoutY="23.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Type:" />
+            <TextField fx:id="inputPosition" />
+            <Text layoutX="10.0" layoutY="265.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name:" />
+            <TextField fx:id="inputName" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="salary:" />
+            <TextField fx:id="salaryinput" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Tax rate" />
+            <TextField fx:id="taxrateinput" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Pay rate:" />
+            <TextField fx:id="payrateinput" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Workinghours:" />
+            <TextField fx:id="inputWorkinghours" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Age:" />
+            <TextField fx:id="inputAge" />
+            <Button mnemonicParsing="false" onAction="#submit" prefHeight="25.0" prefWidth="160.0" text="Submit" />
+         </children>
+      </VBox>
+      <Button fx:id="create" layoutX="376.0" layoutY="417.0" mnemonicParsing="false" onMouseClicked="#gonext" text="Create" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,258 @@
+
+q
+java:S1192ğ"UDefine a constant instead of duplicating this literal "Enter working hours " 4 times.(š­şÏüÿÿÿÿ
+j
+java:S1192Ù"TDefine a constant instead of duplicating this literal "item does not exist" 5 times.(“Ì	
+b
+java:S1192ˆ"KDefine a constant instead of duplicating this literal "teamleader" 4 times.(ğ¢¤ù
+v
+java:S1192½"ZDefine a constant instead of duplicating this literal "please input a character " 5 times.(µ‰Ûñşÿÿÿÿ
+¯
+java:S1192§"—Define a constant instead of duplicating this literal "Enter T for trainee , C for ceo, M for manager , L for team leader , m for team member" 4 times.(Ê˜×¿
+a
+java:S1192½"JDefine a constant instead of duplicating this literal "Enter age" 5 times.(ÀÓÅ„
+f
+java:S1192Ñ"ODefine a constant instead of duplicating this literal "Enter tax Rate" 8 times.(ÍãŒÑ
+p
+java:S1192Ã"TDefine a constant instead of duplicating this literal "item already exists" 5 times.(ĞÓÌ¯øÿÿÿÿ
+o
+java:S1192ª"YDefine a constant instead of duplicating this literal "please input a character" 5 times.(“¸®
+j
+java:S1192æ"NDefine a constant instead of duplicating this literal "Enter new age" 5 times.(²³¶ßûÿÿÿÿ
+b
+java:S1192‰"KDefine a constant instead of duplicating this literal "teammember" 4 times.(ßğ’³
+`
+java:S1192°"IDefine a constant instead of duplicating this literal "Enter id" 5 times.(¹İŠ
+j
+java:S1192Ó"NDefine a constant instead of duplicating this literal "Enter payrate" 8 times.(ûÑşÿÿÿÿÿ
+f
+java:S1192ä"ODefine a constant instead of duplicating this literal "Enter new name" 5 times.(÷‚ì¨
+o
+java:S1192ş"SDefine a constant instead of duplicating this literal "Enter new position" 4 times.(¿íŸÿÿÿÿÿ
+n
+java:S1192‚"RDefine a constant instead of duplicating this literal "Enter new payrate" 4 times.(ŸĞºÅûÿÿÿÿ
+^
+java:S1192‡"HDefine a constant instead of duplicating this literal "manager" 4 times.(¼ÇÅg
+j
+java:S1192€"SDefine a constant instead of duplicating this literal "Enter new tax Rate" 4 times.(óÔµ
+a
+java:S1192ì"JDefine a constant instead of duplicating this literal "salary is" 5 times.(¥šŸ
+i
+java:S1192â"MDefine a constant instead of duplicating this literal "Enter new id" 5 times.(úÈñıÿÿÿÿ
+b
+java:S1192»"KDefine a constant instead of duplicating this literal "Enter name" 5 times.(¾±”û
+p
+java:S1192Ï"TDefine a constant instead of duplicating this literal "Enter working hours" 4 times.(š­şÏüÿÿÿÿ
+Q
+java:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g
+java:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(îÇËúÿÿÿÿ
+^
+java:S3973ë"GUse indentation to denote the code conditionally executed by this "if".(Ã£ø€
+^
+java:S3973ø"GUse indentation to denote the code conditionally executed by this "if".(Ã£ø€
+^
+java:S3973†"GUse indentation to denote the code conditionally executed by this "if".(Ã£ø€
+^
+java:S3973“"GUse indentation to denote the code conditionally executed by this "if".(Ã£ø€
+^
+java:S3973 "GUse indentation to denote the code conditionally executed by this "if".(Ã£ø€
+^
+java:S3973À"GUse indentation to denote the code conditionally executed by this "if".(‰Ì¿™
+]
+java:S3973È"GUse indentation to denote the code conditionally executed by this "if".(ÅòÓG
+]	java:S125"<This block of commented-out lines of code should be removed.(³§Ïøÿÿÿÿ8³ş¶¹˜0
+X	java:S125&"<This block of commented-out lines of code should be removed.(Ûğ›ù8Èş¶¹˜0
+u
+java:S3776t"SRefactor this method to reduce its Cognitive Complexity from 344 to the 15 allowed.(Ü‰Îîûÿÿÿÿ8Ëş¶¹˜0
+X	java:S125-"<This block of commented-out lines of code should be removed.(­ø‘Ç8×ş¶¹˜0
+]	java:S1252"<This block of commented-out lines of code should be removed.(ñˆ‹¾şÿÿÿÿ8×ş¶¹˜0
+]	java:S125>"<This block of commented-out lines of code should be removed.(¤Ø±œşÿÿÿÿ8Øş¶¹˜0
+]	java:S125D"<This block of commented-out lines of code should be removed.(“Á“Ÿúÿÿÿÿ8Øş¶¹˜0
+K
+java:S1481‚".Remove this unused "deletestr" local variable.(œØ›8åş¶¹˜0
+M
+java:S1481"/Remove this unused "flagdelete" local variable.(º™–½8éş¶¹˜0
+D
+java:S1481"&Remove this unused "f" local variable.(”Ã’ù8êş¶¹˜0
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.( ÕÄôüÿÿÿÿ8êş¶¹˜0
+U	java:S106–"9Replace this use of System.out or System.err by a logger.(²òÊD8ëş¶¹˜0
+L
+java:S1481".Remove this unused "oldsalary" local variable.(®šØâ8ëş¶¹˜0
+D	java:S131¡""Add a default case to this switch.(Œ¼’ şÿÿÿÿ8ôş¶¹˜0
+E
+java:S1125¥"'Remove the unnecessary boolean literal.(À¡Â«8õş¶¹˜0
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(Ê˜×¿8öş¶¹˜0
+D	java:S131¬""Add a default case to this switch.(îÇËúÿÿÿÿ8ùş¶¹˜0
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(¹İŠ8ùş¶¹˜0
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(íÃÕîşÿÿÿÿ8úş¶¹˜0
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(Ù¸ŠÄ8ûş¶¹˜0
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(Ò·ÁÄÿÿÿÿÿ8ûş¶¹˜0
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(¾±”û8üş¶¹˜0
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8ış¶¹˜0
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(©Œƒİøÿÿÿÿ8ÿş¶¹˜0
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¹İŠ8€ÿ¶¹˜0
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8ÿ¶¹˜0
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8ÿ¶¹˜0
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8‚ÿ¶¹˜0
+V	java:S106Ö"9Replace this use of System.out or System.err by a logger.(¾±”û8‚ÿ¶¹˜0
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8ƒÿ¶¹˜0
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(©Œƒİøÿÿÿÿ8…ÿ¶¹˜0
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(¹İŠ8…ÿ¶¹˜0
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8†ÿ¶¹˜0
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8‡ÿ¶¹˜0
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8‡ÿ¶¹˜0
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(¾±”û8ˆÿ¶¹˜0
+V	java:S106ó"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8ˆÿ¶¹˜0
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(©Œƒİøÿÿÿÿ8Šÿ¶¹˜0
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(¹İŠ8Œÿ¶¹˜0
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8ÿ¶¹˜0
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8ÿ¶¹˜0
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8ÿ¶¹˜0
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¾±”û8ÿ¶¹˜0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8ÿ¶¹˜0
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(©Œƒİøÿÿÿÿ8ÿ¶¹˜0
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(¹İŠ8‘ÿ¶¹˜0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8’ÿ¶¹˜0
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8“ÿ¶¹˜0
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8“ÿ¶¹˜0
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(¾±”û8”ÿ¶¹˜0
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8”ÿ¶¹˜0
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(©Œƒİøÿÿÿÿ8–ÿ¶¹˜0
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(µ‰Ûñşÿÿÿÿ8—ÿ¶¹˜0
+E
+java:S1125Ì"'Remove the unnecessary boolean literal.(À¡Â«8—ÿ¶¹˜0
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(Ê˜×¿8˜ÿ¶¹˜0
+D	java:S131Ó""Add a default case to this switch.(îÇËúÿÿÿÿ8šÿ¶¹˜0
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(«·€áøÿÿÿÿ8šÿ¶¹˜0
+U	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ÈÙ¥Z8œÿ¶¹˜0
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(úüùüÿÿÿÿ8œÿ¶¹˜0
+[	java:S106à"9Replace this use of System.out or System.err by a logger.(Â´©Éúÿÿÿÿ8ÿ¶¹˜0
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(úÈñıÿÿÿÿ8ÿ¶¹˜0
+V	java:S106ä"9Replace this use of System.out or System.err by a logger.(÷‚ì¨8ÿ¶¹˜0
+[	java:S106æ"9Replace this use of System.out or System.err by a logger.(²³¶ßûÿÿÿÿ8ÿ¶¹˜0
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(çÛ€Û8 ÿ¶¹˜0
+V	java:S106ö"9Replace this use of System.out or System.err by a logger.(İĞ–ƒ8 ÿ¶¹˜0
+V	java:S106ü"9Replace this use of System.out or System.err by a logger.(µ³Ù¿8¡ÿ¶¹˜0
+[	java:S106ş"9Replace this use of System.out or System.err by a logger.(¿íŸÿÿÿÿÿ8¢ÿ¶¹˜0
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(óÔµ8¢ÿ¶¹˜0
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(ŸĞºÅûÿÿÿÿ8£ÿ¶¹˜0
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(úÈñıÿÿÿÿ8£ÿ¶¹˜0
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(÷‚ì¨8¤ÿ¶¹˜0
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(²³¶ßûÿÿÿÿ8¥ÿ¶¹˜0
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(çÛ€Û8§ÿ¶¹˜0
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(Ûî¶Èûÿÿÿÿ8§ÿ¶¹˜0
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(’‡”8¨ÿ¶¹˜0
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(¿íŸÿÿÿÿÿ8©ÿ¶¹˜0
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(óÔµ8©ÿ¶¹˜0
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(ŸĞºÅûÿÿÿÿ8ªÿ¶¹˜0
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(úÈñıÿÿÿÿ8«ÿ¶¹˜0
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(÷‚ì¨8¬ÿ¶¹˜0
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(²³¶ßûÿÿÿÿ8­ÿ¶¹˜0
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(çÛ€Û8®ÿ¶¹˜0
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(œƒ¯ô8¯ÿ¶¹˜0
+V	java:S106Ç"9Replace this use of System.out or System.err by a logger.(Û¥şÖ8°ÿ¶¹˜0
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(¿íŸÿÿÿÿÿ8±ÿ¶¹˜0
+V	java:S106Ë"9Replace this use of System.out or System.err by a logger.(óÔµ8±ÿ¶¹˜0
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(ŸĞºÅûÿÿÿÿ8²ÿ¶¹˜0
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(úÈñıÿÿÿÿ8³ÿ¶¹˜0
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(÷‚ì¨8³ÿ¶¹˜0
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(²³¶ßûÿÿÿÿ8´ÿ¶¹˜0
+V	java:S106Ü"9Replace this use of System.out or System.err by a logger.(çÛ€Û8¶ÿ¶¹˜0
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(º›æ¥8·ÿ¶¹˜0
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(…±ˆãúÿÿÿÿ8·ÿ¶¹˜0
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(¿íŸÿÿÿÿÿ8¸ÿ¶¹˜0
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(óÔµ8¹ÿ¶¹˜0
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(ŸĞºÅûÿÿÿÿ8¹ÿ¶¹˜0
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(úÈñıÿÿÿÿ8»ÿ¶¹˜0
+V	java:S106÷"9Replace this use of System.out or System.err by a logger.(÷‚ì¨8¼ÿ¶¹˜0
+[	java:S106ù"9Replace this use of System.out or System.err by a logger.(²³¶ßûÿÿÿÿ8¼ÿ¶¹˜0
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(å½³¾8¾ÿ¶¹˜0
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(µ‰Ûñşÿÿÿÿ8¿ÿ¶¹˜0
+E
+java:S1125•"'Remove the unnecessary boolean literal.(À¡Â«8¿ÿ¶¹˜0
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(Ê˜×¿8Àÿ¶¹˜0
+D	java:S131""Add a default case to this switch.(îÇËúÿÿÿÿ8Áÿ¶¹˜0
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(çñÜ‘úÿÿÿÿ8Áÿ¶¹˜0
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(ç–‘øıÿÿÿÿ8Âÿ¶¹˜0
+V	java:S106´"9Replace this use of System.out or System.err by a logger.(ş¶ìê8Ãÿ¶¹˜0
+V	java:S106¾"9Replace this use of System.out or System.err by a logger.(¶¿Æ¨8Äÿ¶¹˜0
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(ïœ ë8Äÿ¶¹˜0
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(µ‰Ûñşÿÿÿÿ8Åÿ¶¹˜0
+E
+java:S1125Ş"'Remove the unnecessary boolean literal.(À¡Â«8Æÿ¶¹˜0
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(Ê˜×¿8Æÿ¶¹˜0
+D	java:S131æ""Add a default case to this switch.(îÇËúÿÿÿÿ8Çÿ¶¹˜0
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(¥šŸ8Èÿ¶¹˜0
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8Èÿ¶¹˜0
+V	java:S106ò"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8Éÿ¶¹˜0
+[	java:S106ô"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8Êÿ¶¹˜0
+V	java:S106ù"9Replace this use of System.out or System.err by a logger.(¥šŸ8Ëÿ¶¹˜0
+[	java:S106ı"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8Ëÿ¶¹˜0
+V	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8Ìÿ¶¹˜0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8Ìÿ¶¹˜0
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(¥šŸ8Íÿ¶¹˜0
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8Îÿ¶¹˜0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8Îÿ¶¹˜0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8Ïÿ¶¹˜0
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(¥šŸ8Ğÿ¶¹˜0
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(š­şÏüÿÿÿÿ8Ğÿ¶¹˜0
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ÍãŒÑ8Ñÿ¶¹˜0
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(ûÑşÿÿÿÿÿ8Ñÿ¶¹˜0
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(¥šŸ8Òÿ¶¹˜0
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(µ‰Ûñşÿÿÿÿ8Òÿ¶¹˜0
+E
+java:S1125³"'Remove the unnecessary boolean literal.(À¡Â«8Óÿ¶¹˜0
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(§ì³Ã8Óÿ¶¹˜0
+D	java:S131»""Add a default case to this switch.(îÇËúÿÿÿÿ8Ôÿ¶¹˜0
+U	java:S106¾"9Replace this use of System.out or System.err by a logger.(–İª8Õÿ¶¹˜0
+S
+java:S2209¿"5Change this instance-reference to a static reference.(ù’¢±8×ÿ¶¹˜0
+S
+java:S2209À"5Change this instance-reference to a static reference.(‰Ì¿™8Øÿ¶¹˜0
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(üÔ² ÿÿÿÿÿ8Ùÿ¶¹˜0
+S
+java:S2209Ç"5Change this instance-reference to a static reference.(ù’¢±8Ùÿ¶¹˜0
+R
+java:S2209È"5Change this instance-reference to a static reference.(ÅòÓG8Úÿ¶¹˜0
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(µ‰Ûñşÿÿÿÿ8Úÿ¶¹˜0
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(©‰‹òúÿÿÿÿ8Ûÿ¶¹˜0
+P
+java:S1135í"2Complete the task associated to this TODO comment.(Ìûû8Üÿ¶¹˜0
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8Üÿ¶¹˜0
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8İÿ¶¹˜0
+M
+java:S1128"0Remove this unused import 'javafx.scene.Parent'.(²ä¡È8İÿ¶¹˜0
+\
+java:S1128
+":Remove this unused import 'javafx.scene.control.MenuItem'.(¶—øäûÿÿÿÿ8İÿ¶¹˜0
+_
+java:S1128"=Remove this unused import 'javafx.scene.control.TableColumn'.(›¢øùÿÿÿÿ8İÿ¶¹˜0
+h
+java:S1128"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ8İÿ¶¹˜0
+W
+java:S1128"5Remove this unused import 'javafx.scene.layout.VBox'.(íÆáÂùÿÿÿÿ8Şÿ¶¹˜0
+R
+java:S1128"0Remove this unused import 'javafx.stage.Window'.(Ñ€Ş‡øÿÿÿÿ8Şÿ¶¹˜0
+d
+java:S1128"BRemove this unused import 'javafx.application.Application.launch'.(Ç¢¦çúÿÿÿÿ8Şÿ¶¹˜0

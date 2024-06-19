@@ -1,0 +1,15 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃâÚ°úÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üù®Æüÿÿÿÿ
+H
+java:S1199
+"-Extract this nested code block into a method.(Å»®ûÿÿÿÿ
+§
+java:S1130"„Remove the declaration of thrown exception 'com.example.minipayrollgui.NoItemsException', as it cannot be thrown from method's body.(Æƒ‰…şÿÿÿÿ8¦ÆïÎ“0
+U
+java:S6213
+":Rename this variable to not match a restricted identifier.(Å»®ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç­şà
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯ØÓçÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ°Â¿ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§èÜÔ

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="731.0" prefWidth="980.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.minipayrollgui.Controller2">
+    <children>
+        <VBox prefHeight="527.0" prefWidth="200.0" style="-fx-background-color: #3F2B63;" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+                <Pane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Button layoutX="39.0" layoutY="116.0" mnemonicParsing="false" prefHeight="44.0" prefWidth="128.0" text="Homepage">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Button>
+               </children>
+                </Pane>
+                <Button fx:id="Add" mnemonicParsing="false"  prefHeight="65.0" prefWidth="200.0" text="Add">
+               <font>
+                  <Font size="20.0" />
+               </font></Button>
+                <Button fx:id="Modify" mnemonicParsing="false" prefHeight="65.0" prefWidth="200.0" text="Modify">
+               <font>
+                  <Font size="20.0" />
+               </font></Button>
+                <Button fx:id="Remove" mnemonicParsing="false" prefHeight="65.0" prefWidth="200.0" text="Remove">
+               <font>
+                  <Font size="20.0" />
+               </font></Button>
+                <Button fx:id="calcsalary" mnemonicParsing="false" prefHeight="65.0" prefWidth="200.0" text="Calculate salary">
+               <font>
+                  <Font size="20.0" />
+               </font></Button>
+            <Button fx:id="view" mnemonicParsing="false" prefHeight="63.0" prefWidth="213.0" text="View">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            </children>
+        </VBox>
+        <Pane layoutX="200.0" layoutY="103.0" prefHeight="94.0" prefWidth="609.0" style="-fx-background-color: #7156DC;" AnchorPane.leftAnchor="200.0" AnchorPane.rightAnchor="-1.0" />
+            <Label layoutX="509.0" layoutY="14.0" prefHeight="94.0" prefWidth="351.0" text="    Mini-payroll" textFill="#080000">
+                <font>
+                    <Font size="45.0" />
+                </font>
+            </Label>
+
+    </children>
+</AnchorPane>
