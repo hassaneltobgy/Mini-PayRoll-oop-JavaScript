@@ -16,4 +16,4 @@ Positions and grades are defined as enumerations to standardize tax rates and pa
 
 Hope this rewrite helps clarify the key ideas! Let me know if you have any other questions.
 # special credits
-Hassan El-tobgy , Farida El-husseiny , Zeina Hesham , Mariam Diaa
+Mazen Mohamed , Farida El-husseiny , Zeina Hesham , Mariam Diaa
